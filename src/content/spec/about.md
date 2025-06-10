@@ -1,5 +1,9 @@
 # About
-This site is inspired by and heavily modified upon [Fuwari](https://github.com/saicaca/fuwari).
+This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
 
-### What's that profile picture?
-Sudoku with the least number of clues such that the board is uniquely solvable. The current record is [17](https://puzzling.stackexchange.com/questions/82048/minimum-number-of-clues-for-sudoku-to-have-an-unique-solution), and the profile picture is an example.
+::github{repo="saicaca/fuwari"}
+
+> ### Sources of images used in this site
+> - [Unsplash](https://unsplash.com/)
+> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
+> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)

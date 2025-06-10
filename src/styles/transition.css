@@ -20,7 +20,9 @@ html.is-animating .transition-swup-fade {
 
 /* Main components */
 .onload-animation {
-    opacity: 1;
+    opacity: 0;
+    animation: 300ms fade-in-up;
+    animation-fill-mode: forwards;
 }
 #navbar {
     animation-delay: 0ms
@@ -49,10 +51,3 @@ html.is-animating .transition-swup-fade {
 #post-container :nth-child(5) { animation-delay: calc(var(--content-delay) + 250ms) }
 #post-container :nth-child(6) { animation-delay: calc(var(--content-delay) + 325ms) }
 
-*{
-    -webkit-transition:none!important;
-    -moz-transition:none!important;
-    -o-transition:none!important;
-    -ms-transition:none!important;
-    transition:none!important
-}

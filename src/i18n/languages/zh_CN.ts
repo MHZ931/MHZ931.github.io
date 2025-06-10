@@ -6,7 +6,6 @@ export const zh_CN: Translation = {
 	[Key.about]: "关于",
 	[Key.archive]: "归档",
 	[Key.search]: "搜索",
-	[Key.intro]: "简介",
 
 	[Key.tags]: "标签",
 	[Key.categories]: "分类",
