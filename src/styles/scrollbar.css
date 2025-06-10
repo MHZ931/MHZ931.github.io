@@ -40,3 +40,11 @@
         --os-handle-bg-active: var(--scrollbar-bg-active-light);
     }
 }
+
+*{
+    -webkit-transition:none!important;
+    -moz-transition:none!important;
+    -o-transition:none!important;
+    -ms-transition:none!important;
+    transition:none!important
+}
