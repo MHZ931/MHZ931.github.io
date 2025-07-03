@@ -126,6 +126,7 @@ export default defineConfig({
 						important: (x, y) => AdmonitionComponent(x, y, "important"),
 						caution: (x, y) => AdmonitionComponent(x, y, "caution"),
 						warning: (x, y) => AdmonitionComponent(x, y, "warning"),
+						recall: (x, y) => AdmonitionComponent(x, y, "recall")
 					},
 				},
 			],
