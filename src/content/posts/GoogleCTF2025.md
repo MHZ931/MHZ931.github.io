@@ -4,7 +4,7 @@ published: 2025-07-02
 description: 'GoogleCTF2025'
 image: ''
 tags: [CTF, Crypto, LWE, Lattices, Merkle Tree, Hashes, AES, DiffCrypto]
-category: 'CTF Writeup'
+category: 'CTF'
 draft: false
 lang: 'en'
 ---
