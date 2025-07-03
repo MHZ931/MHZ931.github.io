@@ -4,7 +4,7 @@ published: 2025-07-02
 description: 'GoogleCTF2025'
 image: ''
 tags: [CTF, Crypto, LWE, Lattices, Merkle Tree, Hashes, AES, DiffCrypto]
-category: 'CTF'
+category: 'CTF Notes'
 draft: false
 lang: 'en'
 ---
@@ -960,3 +960,7 @@ while True:
     except ValueError as e:
         print("You said wrong.")
 ```
+
+# crypto/accepted
+
+>Topics: TODO
